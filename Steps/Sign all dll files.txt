@@ -1,4 +1,4 @@
-Signtool sign /f "D:\MyProjects\Power Automate Desktop\Custom Actions\Certificates\PaCustomActionsCert.pfx" /p FOA2025 /fd SHA256 "D:\MyProjects\Power Automate Desktop\Custom Actions\DanishBankHoliday\DanishBankHoliday\bin\Release\Modules.DanishBankHoliday.dll"
+Signtool sign /f "D:\MyProjects\Power Automate Desktop\Custom Actions\DanishBankHoliday\Certificates\PaCustomActionsCert.pfx" /p FOA2025 /fd SHA256 "D:\MyProjects\Power Automate Desktop\Custom Actions\DanishBankHoliday\DanishBankHoliday\bin\Release\Modules.DanishBankHoliday.dll"
 
 Signtool sign /f "D:\MyProjects\Power Automate Desktop\Custom Actions\Certificates\PaCustomActionsCert.pfx" /p FOA2025 /fd SHA256 "D:\MyProjects\Power Automate Desktop\Custom Actions\DanishBankHoliday\DanishBankHoliday\bin\Release\Microsoft.PowerPlatform.PowerAutomate.Desktop.Actions.SDK.dll"
 

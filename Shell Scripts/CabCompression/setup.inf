@@ -1,6 +1,6 @@
 ;*** BEGIN **********************************************************
 ;**                                                                **
-;** Automatically generated on: Tue May 27 20:29:32 2025           **
+;** Automatically generated on: Tue May 27 23:52:56 2025           **
 ;**                                                                **
 ;** MakeCAB Version: 5.00                                 **
 ;**                                                                **
@@ -8,12 +8,12 @@
 [disk list]
 1,Disk 1
 [cabinet list]
-1,1,MyCustomActions.cab
+1,1,MyCustomActionsV2.cab
 [file list]
 1,1,\Modules.DanishBankHoliday.dll,7048
 1,1,\Newtonsoft.Json.dll,701320
 ;*** END ************************************************************
 ;**                                                                **
-;** Automatically generated on: Tue May 27 20:29:32 2025           **
+;** Automatically generated on: Tue May 27 23:52:56 2025           **
 ;**                                                                **
 ;*** END ************************************************************
