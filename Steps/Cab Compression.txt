@@ -1,0 +1,1 @@
+.\CabCompression.ps1 "D:\MyProjects\Power Automate Desktop\Custom Actions\DanishBankHoliday\DanishBankHoliday\bin\Release" "D:\MyProjects\Power Automate Desktop\Custom Actions\Output Project" MyCustomActions.cab

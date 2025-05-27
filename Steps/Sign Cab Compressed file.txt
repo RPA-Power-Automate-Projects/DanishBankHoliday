@@ -1,0 +1,1 @@
+Signtool sign /f "D:\MyProjects\Power Automate Desktop\Custom Actions\Certificates\PaCustomActionsCert.pfx" /p FOA2025 /fd SHA256 "D:\MyProjects\Power Automate Desktop\Custom Actions\Output Project\MyCustomActions.cab"
